@@ -6,6 +6,9 @@ The project demonstrates the design of both **Single-Cycle** and **5-Stage Pipel
 The processor executes a subset of **RISC-V RV32I instructions** and illustrates the internal datapath and control flow between major hardware components.
 
 ---
+## Processor Architecture
+
+![Architecture Diagram](https://github.com/rohitbaskey08/riscv_sigle_cycle_processor/blob/main/doc/architecture.png)
 
 ## 🚀 Features
 
